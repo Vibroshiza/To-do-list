@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "expo/AppEntry.js",
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "npm run web",
     "deploy": "gh-pages -d build",
     "start": "expo start",
     "android": "expo start --android",
